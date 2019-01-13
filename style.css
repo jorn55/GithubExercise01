@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    /* display: block; */
+  }
+  
+div.student-owner {
+    border: 2px red dashed;
+    background-color: orange;
+} 
+h1 {
+    font-family: 'tahoma';
+    font-size: 48px;
+    text-align: center;
+    color: white;
+}
+
